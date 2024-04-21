@@ -1,1 +1,1 @@
-create database chaman;
+Create
