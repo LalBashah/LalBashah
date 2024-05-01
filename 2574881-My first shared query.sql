@@ -1,1 +1,1 @@
-select * from TAB LIMIT 100
+select * from TABles
