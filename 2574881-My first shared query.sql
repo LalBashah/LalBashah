@@ -6,4 +6,4 @@ group by 1
 limit 10;
 
 select * from city
-select max(count(*)), country_code from city group by country_code
+select max(count(1)), country_code from city group by country_code
