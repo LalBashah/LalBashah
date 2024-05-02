@@ -5,4 +5,4 @@ from city
 group by 1
 limit 10;
 
-sele
+select * from city
