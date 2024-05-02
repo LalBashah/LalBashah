@@ -6,4 +6,4 @@ group by 1
 limit 10;
 
 select * from city
-select * from city where group by
+select * from city where group by country_code
